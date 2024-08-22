@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "mime-types": "^2.1.35",
+    "minio": "^8.0.1"
+  }
+}
